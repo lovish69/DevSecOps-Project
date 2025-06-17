@@ -6,9 +6,7 @@ This project demonstrates a practical implementation of a DevSecOps pipeline wit
 ---
 
 ## 📌 Project Architecture (Based on Implementation)
-
-![diagram-export-6-17-2025-3_31_26-AM](https://github.com/user-attachments/assets/3a3bc1e1-cfb3-4130-9a2f-3039b6d896f4)
-
+![diagram-export-6-16-2025-5_05_08-PM](https://github.com/user-attachments/assets/e208754d-8ed9-4f40-929d-8661eb041a1e)
 
 ---
 

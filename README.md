@@ -18,9 +18,9 @@ This project demonstrates a practical implementation of a DevSecOps pipeline wit
 | **Jenkins** | Automates build, analysis & deployment   |
 | **SonarQube** | Performs static code analysis           |
 | **Docker**  | Containerizes the application            |
-| **EC2**     | Hosts Jenkins, Docker, SonarQube         |
+| **Github**     | Code Repository                       |
 | **ArgoCD**  | GitOps-based K8s deployment              |
-
+| **Terraform**| Creation of EC2 instance                |
 ---
 
 ## 📷 Screenshots Summary
